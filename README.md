@@ -1,2 +1,9 @@
-# Assistive-Device-for-deaf
-This is the research project includes Wi-Fi WLS trilateration 
+---
+
+# 📡 Smart Wearable for Deaf Individuals 
+
+## 📖 Description
+
+Project details will be available soon. 🚀
+
+---
